@@ -1,0 +1,56 @@
+{
+  "SingIn": {
+    "header": "로그인",
+
+    "inputPlaceholderEmail": "이메일 주소",
+    "inputPlaceholderPassword": "비밀번호",
+
+    "forgetPassword": "비밀번호를 잊었습니다",
+    "createAccount": "계정 만들기",
+
+    "buttonSingIn": "가입"
+  },
+
+  "SignUp": {
+    "header": "등록하십시오",
+
+    "inputPlaceholderName": "이름",
+    "inputPlaceholderEmail": "이메일 주소",
+    "inputPlaceholderPassword": "비밀번호",
+
+    "buttonSignUp": "등록",
+
+    "buttonBackToLogon": "로그인으로 돌아 가기"
+  },
+
+  "Tooltip": {
+    "nameRequired": "필요한 이름",
+
+    "emailRequired": "이메일 필요",
+    "email": "유효한 이메일을 입력하십시오",
+
+    "password": "비밀번호 필요",
+    "passwordMin": "6 자리 이상"
+  },
+
+  "ToastContainer": {
+    "SignIn": {
+      "error": {
+        "title": "인증 오류",
+        "description": "로그인하는 동안 오류가 발생했습니다. 자격 증명을 확인하십시오."
+      }
+    },
+
+    "SignUp": {
+      "success": {
+        "title": "등록 완료",
+        "description": "이제 GoBarber에 로그인 할 수 있습니다!"
+      },
+
+      "error": {
+        "title": "등록 오류",
+        "description": "등록하는 동안 오류가 발생했습니다. 다시 시도하십시오."
+      }
+    }
+  }
+}

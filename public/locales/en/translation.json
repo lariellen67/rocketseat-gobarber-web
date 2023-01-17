@@ -1,0 +1,56 @@
+{
+  "SingIn": {
+    "header": "Log in",
+
+    "inputPlaceholderEmail": "E-mail",
+    "inputPlaceholderPassword": "Password",
+
+    "forgetPassword": "I forgot my password",
+    "createAccount": "Create an account",
+
+    "buttonSingIn": "Sign In"
+  },
+
+  "SignUp": {
+    "header": "Make your registration",
+
+    "inputPlaceholderName": "Name",
+    "inputPlaceholderEmail": "E-mail",
+    "inputPlaceholderPassword": "Password",
+
+    "buttonSignUp": "Register",
+
+    "buttonBackToLogon": "Back to Login"
+  },
+
+  "Tooltip": {
+    "nameRequired": "Name required",
+
+    "emailRequired": "E-mail required",
+    "email": "Enter a valid email address",
+
+    "password": "Password required",
+    "passwordMin": "At least 6 digits"
+  },
+
+  "ToastContainer": {
+    "SignIn": {
+      "error": {
+        "title": "Authentication error",
+        "description": "There was an error signing in, check credentials."
+      }
+    },
+
+    "SignUp": {
+      "success": {
+        "title": "Registration completed",
+        "description": "You can now login to GoBarber!"
+      },
+
+      "error": {
+        "title": "Registration error",
+        "description": "An error occurred while registering, please try again."
+      }
+    }
+  }
+}

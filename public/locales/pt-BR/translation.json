@@ -1,0 +1,56 @@
+{
+  "SingIn": {
+    "header": "Faça seu logon",
+
+    "inputPlaceholderEmail": "E-mail",
+    "inputPlaceholderPassword": "Senha",
+
+    "forgetPassword": "Esqueci minha senha",
+    "createAccount": "Criar conta",
+
+    "buttonSingIn": "Entrar"
+  },
+
+  "SignUp": {
+    "header": "Faça seu cadastro",
+
+    "inputPlaceholderName": "Nome",
+    "inputPlaceholderEmail": "E-mail",
+    "inputPlaceholderPassword": "Senha",
+
+    "buttonSignUp": "Cadastrar",
+
+    "buttonBackToLogon": "Voltar para logon"
+  },
+
+  "Tooltip": {
+    "nameRequired": "Nome obrigatório",
+
+    "emailRequired": "E-mail obrigatório",
+    "email": "Digite um e-mail válido",
+
+    "password": "Senha obrigatória",
+    "passwordMin": "No mínimo 6 dígitos"
+  },
+
+  "ToastContainer": {
+    "SignIn": {
+      "error": {
+        "title": "Erro na autenticação",
+        "description": "Ocorreu um erro ao fazer login, cheque as credenciais."
+      }
+    },
+
+    "SignUp": {
+      "success": {
+        "title": "Cadastro realizado",
+        "description": "Você já pode fazer seu logon no GoBarber!"
+      },
+
+      "error": {
+        "title": "Erro no cadastro",
+        "description": "Ocorreu um erro ao fazer cadastro, tente novamente."
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "SingIn": {
+    "header": "登入",
+
+    "inputPlaceholderEmail": "郵箱地址",
+    "inputPlaceholderPassword": "密碼",
+
+    "createAccount": "建立帳號",
+    "forgetPassword": "我忘記了密碼",
+
+    "buttonSingIn": "報名"
+  },
+
+  "SignUp": {
+    "header": "進行註冊",
+
+    "inputPlaceholderName": "名稱",
+    "inputPlaceholderEmail": "郵箱地址",
+    "inputPlaceholderPassword": "密碼",
+
+    "buttonSignUp": "報名",
+
+    "buttonBackToLogon": "返回登錄"
+  },
+
+  "Tooltip": {
+    "nameRequired": "姓名必填",
+
+    "emailRequired": "需要電子郵件",
+    "email": "請輸入有效的電子郵件",
+
+    "password": "需要密碼",
+    "passwordMin": "至少6位數字"
+  },
+
+  "ToastContainer": {
+    "SignIn": {
+      "error": {
+        "title": "驗證錯誤",
+        "description": "登錄時出錯，請檢查憑據。"
+      }
+    },
+
+    "SignUp": {
+      "success": {
+        "title": "註冊完成",
+        "description": "您現在可以登錄GoBarber！"
+      },
+
+      "error": {
+        "title": "註冊錯誤",
+        "description": "註冊時發生錯誤，請重試。"
+      }
+    }
+  }
+}
